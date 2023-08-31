@@ -1,1 +1,2 @@
-# Score-keeper : https://archimehta10.github.io/Score-keeper/
+# Score-keeper
+https://archimehta10.github.io/Score-keeper/
